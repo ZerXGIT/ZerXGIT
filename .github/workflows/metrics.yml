@@ -46,7 +46,7 @@ jobs:
           plugin_languages_skipped: gif-time, dotFiles, Itech-G7
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_lines_skipped: gif-time
+          plugin_lines_skipped: endzone-crimelife
           plugin_projects: no
           plugin_projects_limit: 4
           plugin_wakatime: yes
